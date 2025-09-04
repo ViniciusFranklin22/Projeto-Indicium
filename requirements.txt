@@ -1,0 +1,10 @@
+google-colab
+imblearn
+matplotlib
+numpy
+pandas
+plotly
+requests
+scikit-learn
+seaborn
+xgboost
