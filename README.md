@@ -23,6 +23,15 @@ Objetivo: Análise exploratória, engenharia de features e modelos para prever n
 
 ---
 
+## Observação sobre uso de IA
+
+Durante a elaboração deste projeto, utilizei ferramentas de Inteligência Artificial (IA), como o ChatGPT, **apenas para auxílio na escrita do relatório, organização do texto e pesquisas pontuais**.  
+
+Todo o raciocínio analítico, pré-processamento dos dados, modelagem, código-fonte e conclusões foram desenvolvidos exclusivamente por mim. **Nenhuma parte do desafio foi resolvida utilizando IA**.
+
+
+---
+
 ## ☁️ Google Drive (Colab) — detalhes práticos
 1. Abra o notebook no Colab.  
 2. Monte o Drive:
@@ -31,8 +40,3 @@ from google.colab import drive
 drive.mount('/content/drive')
 BASE_PATH = '/content/drive/MyDrive/indicium_desafio'  # ajuste conforme desejar
 
-## Observação sobre uso de IA
-
-Durante a elaboração deste projeto, utilizei ferramentas de Inteligência Artificial (IA), como o ChatGPT, **apenas para auxílio na escrita do relatório, organização do texto e pesquisas pontuais**.  
-
-Todo o raciocínio analítico, pré-processamento dos dados, modelagem, código-fonte e conclusões foram desenvolvidos exclusivamente por mim. **Nenhuma parte do desafio foi resolvida utilizando IA**.
